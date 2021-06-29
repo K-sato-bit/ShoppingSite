@@ -100,7 +100,8 @@ th,td {
 			<td>
 				<img src = "<%=s.getImage() %>" width = "100" height = "100" alt = "アルバム写真" align = "top">
 			</td>
-	</div>	
+	</div>
+		
 			<td>【<%=s.getAlbum_name()%>】</td>
 			
 			<td><%=s.getPrice()%>円</td>

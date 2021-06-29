@@ -96,7 +96,7 @@ table {
 	<form action = "../jsp/menu.jsp" method = "post">
 		<input class = "button" type ="submit" value ="発売日"></form>
 			
-	<form action = "../jp.co.aforce.servlet/cart" method = "post">
+	<form action = "../jsp/cart.jsp" method = "post">
 		<input class = "button2" type ="submit" value ="カート"></form>
 		
 </div>

@@ -68,7 +68,7 @@ h2,p{
 
 	<%@ include file="../jsp/header.jsp"%>		
 	
-	<h2>INSERT</h2>
+	<h2>ADD</h2>
 	
 	
 <div style="display:inline-flex">
